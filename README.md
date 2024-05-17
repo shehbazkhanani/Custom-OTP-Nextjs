@@ -7,9 +7,6 @@ This repository contains a React component for OTP (One-Time Password) verificat
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
